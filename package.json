@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "0.0.1",
+  "description": "\"FriendFinder\" application -- basically a dating app. This full-stack site will take in results your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davebokil/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davebokil/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/davebokil/FriendFinder#readme"
+}
